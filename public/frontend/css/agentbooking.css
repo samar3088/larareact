@@ -1,0 +1,106 @@
+.blac_filed 
+{
+   background: #000;
+   height: 46px;
+   font-size: 15px;
+   color: #fff;
+   padding: 12px;
+   font-weight: 500;
+}
+.style_box 
+{
+   border-radius: 0px;
+   height: 46px;
+   position: relative;
+   z-index: 0;
+}
+.padd0
+{
+   padding: 0px;
+}
+#add_gst
+{
+   width: 15px !important;
+   height: 15px !important;
+}
+.db 
+{
+   background-color: #d52a33 !important;
+   border-color: #e0212b !important;
+}
+.db:hover, .db:active, .btn-warning:active:hover 
+{
+   background-color: #fff !important;
+   color: #d52a33;
+}
+.ui-accordion .myrow:hover 
+{
+   border: 1px solid #d4603c;
+   background: transparent;
+}
+.group 
+{
+   background: #f3f0f0;
+   color: #ffffff;
+   margin: 3px 0;
+   cursor: pointer;
+   padding: 10px;
+   border-radius: 5px;
+}
+.cr_cs 
+{
+   width: 70%;
+   font-size: 13px;
+}
+.savebrtabs 
+{
+   white-space: pre-wrap !important;
+   text-align: left;
+}
+.quantity.buttons_added .minuses, .quantity.buttons_added .pluses 
+{
+   padding: 0px 8px 5px;
+   height: 23px;
+   background-color: #ffffff;
+   border: 1px solid #efefef;
+   color: #000;
+   cursor: pointer;
+   width: 25px;
+}
+.quantity.buttons_added input 
+{
+   display: inline-block;
+   margin: 0;
+   vertical-align: top;
+   box-shadow: none;
+}
+.quantity .input-text.qty 
+{
+   width: 35px;
+   height: 23px;
+   padding: 0 5px;
+   text-align: center;
+   border: 1px solid #efefef;
+   color: #000;
+}
+div[id^="cartitems"] 
+{
+   border-bottom: 1px solid gray;
+   margin: 10px 0;
+}
+.textleft
+{
+   text-align: left;
+}
+#mycart
+{
+   height: 174px !important;
+}
+.btn-primary:hover {
+   background-color: #1578ce;
+   border-color: #1578ce;
+}
+#cc_mails_div, #bcc_mails_div 
+{
+   display: none;
+}
